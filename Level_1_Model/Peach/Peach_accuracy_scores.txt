@@ -1,0 +1,6 @@
+Decision Tree: 0.9280
+Random Forest: 0.9453
+Logistic Regression: 0.7410
+Gradient Boosting: 0.8712
+Naive Bayes: 0.7375
+KNN: 0.8830
